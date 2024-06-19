@@ -1,19 +1,21 @@
+/* Tailwind CSS directives */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* Custom @font-face definitions */
 @layer base {
   @font-face {
     font-family: 'ClashDisplay-Regular';
-    src: url('./assets/fonts/ClashDisplay-Regular.woff2').format('woff2');
-    font-weight: 400; 
+    src: url('./assets/font/ClashDisplay-Regular.woff2') format('woff2');
+    font-weight: 400;
     font-display: swap;
     font-style: normal;
   }
 
   @font-face {
     font-family: 'ClashDisplay-Medium';
-    src: url('./assets/fonts/ClashDisplay-Medium.woff2').format('woff2');
+    src: url('./assets/font/ClashDisplay-Medium.woff2') format('woff2');
     font-weight: 500;
     font-display: swap;
     font-style: normal;
@@ -21,13 +23,14 @@
 
   @font-face {
     font-family: 'ClashDisplay-Bold';
-    src: url('./assets/fonts/ClashDisplay-Bold.woff2').format('woff2');
+    src: url('./assets/font/ClashDisplay-Bold.woff2') format('woff2');
     font-weight: 700;
     font-display: swap;
     font-style: normal;
   }
 }
 
+/* Custom utility class */
 .line-clamp-4 {
   overflow: hidden;
   text-overflow: ellipsis;

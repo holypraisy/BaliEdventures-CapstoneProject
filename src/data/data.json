@@ -1,0 +1,29 @@
+{
+    "trips": [
+      {
+        "id": 1,
+        "nama_trip": "Cultural Exploration of Bali",
+        "durasi": "3 Day",
+        "harga": 3500000,
+        "deskripsi": "Visit iconic temples, participate in traditional workshops, and enjoy Balinese performances.",
+        "photo": "https://i.imgur.com/Lfpakza.jpg"
+      },
+      {
+        "id": 2,
+        "nama_trip": "Bali Nature Adventure",
+        "durasi": "3 Days",
+        "harga": 4500000,
+        "deskripsi": "Embark on an exhilarating journey through Bali's natural wonders with our Bali Nature Adventure package.",
+        "photo": "https://i.imgur.com/e2znXso.jpg"
+      },
+      {
+        "id": 3,
+        "nama_trip": "Bali History and Archaeology",
+        "durasi": "3 Day",
+        "harga": 1500000,
+        "deskripsi": "Uncover the ancient mysteries of Bali with our Bali History and Archaeology package.",
+        "photo": "https://i.imgur.com/VXg4H9n.jpg"
+      }
+    ]
+  }
+  
