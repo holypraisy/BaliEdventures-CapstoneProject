@@ -1,0 +1,44 @@
+{
+    "Cultural Exploration of Bali": [
+        {
+            "name": "Pura Besakih",
+            "location": "Desa Besakih, Karangasem"
+        },
+        {
+            "name": "Museum Puri Lukisan",
+            "location": "Jalan Raya Ubud, Ubud"
+        },
+        {
+            "name": "Taman Ayun",
+            "location": "Mengwi, Kabupaten Badung"
+        }
+    ],
+    "Nature Adventure in Bali": [
+        {
+            "name": "Gunung Batur",
+            "location": "Kintamani, Kabupaten Bangli"
+        },
+        {
+            "name": "Air Terjun Sekumpul",
+            "location": "Desa Sekumpul, Kabupaten Buleleng"
+        },
+        {
+            "name": "Nusa Penida",
+            "location": "Pulau di tenggara Bali, dapat diakses dari Sanur atau Padang Bai"
+        }
+    ],
+    "History and Archaeology in Bali": [
+        {
+            "name": "Pura Tirta Empul",
+            "location": "Tampaksiring, Kabupaten Gianyar"
+        },
+        {
+            "name": "Goa Gajah (Gajah Cave)",
+            "location": "Bedulu, Kecamatan Blahbatuh, Kabupaten Gianyar"
+        },
+        {
+            "name": "Museum Bali",
+            "location": "Denpasar"
+        }
+    ]
+}

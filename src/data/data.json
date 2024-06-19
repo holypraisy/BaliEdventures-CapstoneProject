@@ -6,7 +6,8 @@
         "durasi": "3 Day",
         "harga": 3500000,
         "deskripsi": "Visit iconic temples, participate in traditional workshops, and enjoy Balinese performances.",
-        "photo": "https://i.imgur.com/Lfpakza.jpg"
+        "photo": "https://i.imgur.com/Lfpakza.jpg",
+        "photo_detail" : "https://imgur.com/YWfGxrs.jpg"
       },
       {
         "id": 2,
@@ -14,7 +15,8 @@
         "durasi": "3 Days",
         "harga": 4500000,
         "deskripsi": "Embark on an exhilarating journey through Bali's natural wonders with our Bali Nature Adventure package.",
-        "photo": "https://i.imgur.com/e2znXso.jpg"
+        "photo": "https://i.imgur.com/e2znXso.jpg",
+        "photo_detail" : "https://imgur.com/S8O220P.jpg"
       },
       {
         "id": 3,
@@ -22,7 +24,8 @@
         "durasi": "3 Day",
         "harga": 1500000,
         "deskripsi": "Uncover the ancient mysteries of Bali with our Bali History and Archaeology package.",
-        "photo": "https://i.imgur.com/VXg4H9n.jpg"
+        "photo": "https://i.imgur.com/VXg4H9n.jpg",
+        "photo_detail" : "https://imgur.com/lQnlycn.jpg"
       }
     ]
   }

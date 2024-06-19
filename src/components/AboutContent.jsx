@@ -1,7 +1,9 @@
 import React from 'react';
 import AboutImage from "../assets/images/about-welcomee.png";
-import OfferImage from "../assets/images/home-photo-ii.png"
-
+import OfferImage from "../assets/images/home-photo-ii.png";
+import Chandra from "../assets/images/chandra.png";
+import Holly  from "../assets/images/holly.png";
+import Ogi from "../assets/images/ogi.png";
 export default function AboutContent() {
   return (
     <div className='about-container inline-block py-8 px-8 mt-16'>
@@ -48,6 +50,32 @@ export default function AboutContent() {
           <li>Expert Guides: Knowledgeable guides who are passionate about sharing their expertise and love for Bali.</li>
           <li>Sustainable Travel: Commitment to eco-friendly practices and supporting local communities.</li>
         </ul>
+        </div>
+
+      </div>
+
+      <div className='developers-container'>
+        <h1 className='py-12 font-semibold text-bgColor text-center text-3xl'>Our Developers</h1>
+
+        <div className='developers-photo flex justify-around'>
+          <div className='chandra '> 
+            <img src={Chandra} alt=""
+            className='w-72 h-auto' />
+            <h1 className='text-xl font-semibold text-center py-3'>Chandra Bintang</h1>
+          </div>
+
+          <div className='holly'>
+            <img src={Holly} alt=""
+            className='w-72 h-auto' />
+            <h1 className='text-xl font-semibold text-center py-3'>Holly Praisy</h1>
+          </div>
+
+          <div className='ogi'>
+            <img src={Ogi} alt=""
+            className='w-72 h-auto' />
+            <h1 className='text-xl font-semibold text-center py-3'>Martogi Jekson</h1>
+          </div>
+
         </div>
       </div>
     </div>
